@@ -7,7 +7,7 @@ This data set contains 721 unique Pokemons, including their number (ID), name, f
 
 This are the raw attributes that are used for calculating how much damage an attack will do in the games.
 ```
-The data as described is: \
+The data as described is: 
 
 ID: ID for each pokemon \
 Name: Name of each pokemon \
@@ -21,8 +21,8 @@ SP Atk: special attack, the base modifier for special attacks (e.g., fire blast,
 SP Def: the base damage resistance against special attacks \
 Speed: determines which pokemon attacks first each round \
 
-The data for this table has been acquired from several different sites, including: \
+The data for this table has been acquired from several different sites, including: 
 
 pokemon.com \
 pokemondb \
-bulbapedia \
+bulbapedia 
