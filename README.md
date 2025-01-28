@@ -19,7 +19,7 @@ Attack: the base modifier for normal attacks (e.g., Scratch, Punch) \
 Defense: the base damage resistance against normal attacks \
 SP Atk: special attack, the base modifier for special attacks (e.g., fire blast, bubble beam) \
 SP Def: the base damage resistance against special attacks \
-Speed: determines which pokemon attacks first each round \
+Speed: determines which pokemon attacks first each round 
 
 The data for this table has been acquired from several different sites, including: 
 
